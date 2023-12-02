@@ -8,5 +8,10 @@
     "build": "babel src -d lib"
   },
   "author": "Juninhopo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.5",
+    "mocha": "^10.2.0"
+  }
 }
